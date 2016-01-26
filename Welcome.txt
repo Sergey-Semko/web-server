@@ -1,2 +1,2 @@
-System.out.println("Welcome!");
-System.out.println("How are you?");
+System.out.println("Welcome!" + user);
+System.out.println("How are you?" + user);
